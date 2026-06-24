@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Fuego de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-angel/) |
+| **Get License** | [Get License For Fuego de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tienes esa magia, puro magnetismo
+> Me llevas al cielo, me lanzas al abismo
+> Eres mi fuego de ángel, mi tentación
+> Esta noche en la disco, pierdo la razón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
