@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego de ángel
+
+This log tracks the cryptographic history and versioning for the song **Fuego de ángel** (fuego-de-angel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T14:44:10.504513 | `v1` | `4e3776227c6dd3690532cd4812ca82e7ea5dc650a3d6778b0f7fca921988d981` | `cd3c9f24a5301b6178babf8730e11137488ea14d53271b6956bc15e9ffc7812a` | `2026-06-24_fuego-de-angel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
